@@ -1,0 +1,98 @@
+# Insertion Sort
+
+
+
+Bu dosyada [Insertion Sort Projesinin](https://academy.patika.dev/courses/veri-yapilari-ve-algoritmalar/insertion-sort-proje) çözümleri bulunmaktadır:
+
+
+
+##### ***Proje 1***
+
+
+
+\[22,27,16,2,18,6] -> Insertion Sort
+
+
+
+* **Yukarı verilen dizinin sort türüne göre aşamalarını yazınız:**
+
+
+
+*\[2,27,16,22,18,6]*
+
+
+
+*\[2,6,16,22,18,27]*
+
+
+
+*\[2,6,16,18,22,27]*
+
+
+
+* <b>Big-O gösterimini yazınız:</b>
+
+
+
+O(n^2)
+
+
+
+
+
+* **Time Complexity: Dizi sıralandıktan sonra 18 sayısı aşağıdaki case'lerden hangisinin kapsamına girer? Yazınız:**
+
+
+
+1. **Average case: Aradığımız sayının ortada olması**
+2. **Worst case: Aradığımız sayının sonda olması**
+3. **Best case: Aradığımız sayının dizinin en başında olması.**
+
+
+
+*\[2,6,16,18,22,27] dizinin sıralanmış halinden bakılırsa ;* 
+
+*18 sayısı tam listenin ortasında bulunmaktadır.sonuç olarak Average casedir.*
+
+
+
+
+
+##### ***Proje 2***
+
+
+
+<b>\[7,3,5,8,2,9,4,15,6] dizisinin Selection Sort'a göre ilk 4 adımını yazınız.</b>
+
+
+
+1. *\[2,3,5,8,7,9,4,15,6]*
+1. 
+*2\. \[2,3,4,8,7,9,5,15,6]*
+
+*3. \[2,3,4,5,7,9,8,15,6]*
+
+*4. \[2,3,4,5,6,9,8,15,7]*
+
+*5. \[2,3,4,5,6,7,8,15,9]*
+
+*6. \[2,3,4,5,6,7,8,9,15]*
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
